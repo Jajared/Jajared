@@ -45,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajared&layout=compact&theme=vision-friendly-dark)
 ![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajared&show_icons=true&theme=vision-friendly-dark)
 
-## Current Projects
+## :bookmark: Current Projects:
 
 ### Scrollshop
 Scrollshop is a start-up aimed to help business incorporate technology into their business through improving the User Interface (UI) of their catalogues. The aim is to simplify the process of building their catalogues while making it more interactive for customers.
