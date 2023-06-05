@@ -42,8 +42,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## :fire: My Stats :
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jajared&theme=dark&background=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajared&layout=compact&theme=vision-friendly-dark)
-![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajared&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jajared&layout=compact&theme=vision-friendly-dark)
+![Jared's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jajared&show_icons=true&theme=vision-friendly-dark)
 
 ## :bookmark: Current Projects:
 
